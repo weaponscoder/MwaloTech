@@ -341,26 +341,3 @@ git add README.md
 git commit -m "Add README file"
 git push origin main
 ```
-
----
-
-✅ README INAVYOKUWA NA:
-
-Kipengele Maelezo
-Badges PHP, MySQL, JavaScript, CSS badges
-Table of Contents Navigation through sections
-Features Frontend + Admin panel features
-Tech Stack Technologies used
-Project Structure File organization
-Installation Step by step setup
-Database Setup SQL instructions
-Configuration db.php setup
-Admin Panel Login credentials and features
-Responsive Design Device support
-Color Palette Brand colors
-Contributing How to contribute
-License MIT License
-Contact Your contact info
-Acknowledgments Credits
-
----
